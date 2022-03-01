@@ -1,6 +1,6 @@
 # Marsoft
 
-Welcome to MarSoft. The GDL library created for Ursinus College Physics Department.
+Welcome to MarSoft. The IDL library created for Ursinus College Physics Department.
  
 Useful abbreviations to know:
 
